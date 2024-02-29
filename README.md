@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JackOnGH
+- 💞️ I really want to assemble a portable (briefcase-sized) Pi Booth photobooth to take with me on travels
